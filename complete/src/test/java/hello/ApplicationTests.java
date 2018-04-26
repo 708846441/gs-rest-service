@@ -62,5 +62,6 @@ public class ApplicationTests {
     public void accessSecuredResourceAuthenticatedThenOk() throws Exception {
         mockMvc.perform(get("/hello"))
                 .andExpect(status().isOk());
+                
     }
 }
