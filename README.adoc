@@ -1,4 +1,4 @@
-cd into initial
+cd into complete
 
 then run the application using ./gradlew bootRun
 
