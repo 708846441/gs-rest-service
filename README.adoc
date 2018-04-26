@@ -16,7 +16,7 @@ At the login page, sign in as the test user by entering "user" and "password" fo
 
   {"ladder":["code","cade","cate","date","data"]}
 
-Provide a w1 query string parameter with http://localhost:8080/greeting?w1=cade. 
+Provide a w1 query string parameter with http://localhost:8080/hello?w1=cade. 
 
 Notice the page changes to:
 
